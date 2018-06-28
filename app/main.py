@@ -6,4 +6,4 @@ def main(argv):
     # Edit and remove this code as you like.
 
     for v in argv:
-        print("Hello {1}!".format(v))
+        print("Hello {0}!".format(v))
