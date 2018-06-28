@@ -1,0 +1,8 @@
+h5py==2.7.1
+Pillow==5.1.0
+numpy==1.14.3
+opencv-python==3.4.1.15
+pandas==0.23.0
+scikit-image==0.13.1
+scikit-learn==0.19.1
+scipy==1.1.0
